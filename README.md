@@ -1,192 +1,426 @@
+<!-- =============================================== -->
+
+<!--           GITHUB PROFILE — RANDY GUTIERREZ       -->
+
+<!-- =============================================== -->
+
 <div align="center">
 
 # 👋 Hola, soy Randy Gutierrez
 
-### Desarrollador Full Stack · Estudiante de Ingeniería en Sistemas
+### Full Stack Developer · Estudiante de Ingeniería en Sistemas
 
-Creo aplicaciones web, APIs y sistemas orientados a resolver problemas reales, utilizando tecnologías como **React, Node.js, MySQL y SQL Server**.
+Desarrollo aplicaciones web, APIs REST y sistemas empresariales utilizando tecnologías como **React, Node.js, PHP, CodeIgniter, MySQL y SQL Server**.
 
-Me interesa desarrollar soluciones limpias, escalables y fáciles de mantener, combinando lógica, diseño y mejora continua.
-
-<img
-src="REEMPLAZA_AQUI_LA_URL_DE_TU_GIF"
-alt="Desarrollador programando"
-width="340"
-/>
+Me especializo en convertir procesos y necesidades reales en soluciones de software organizadas, escalables y fáciles de mantener.
 
 <br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-00c896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:randygutierrez@grupo-2g.com)
+<img
+src="./assets/developer-banner.gif"
+alt="Randy Gutierrez desarrollando software"
+width="500"
+/>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTAFOLIO-00C896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:TU_CORREO)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí
 
-* 🎓 Estudio **Ingeniería en Sistemas**.
-* 💻 Desarrollo aplicaciones con **React, Node.js, Express y Sequelize**.
-* 🗄️ Trabajo con bases de datos como **MySQL y SQL Server**.
-* 🔐 Tengo experiencia implementando autenticación, roles, permisos y auditoría.
-* 📊 Me interesan la **probabilidad, estadística, optimización y análisis de procesos**.
-* ⚙️ También disfruto trabajar en proyectos relacionados con **mecánica, diseño industrial y AutoCAD**.
-* 🌱 Actualmente continúo fortaleciendo mis conocimientos en arquitectura de software, APIs y desarrollo full stack.
+Soy estudiante de **Ingeniería en Sistemas** y desarrollador Full Stack con experiencia creando y manteniendo aplicaciones web orientadas a procesos empresariales.
+
+Trabajo tanto en frontend como en backend, participando en el diseño de interfaces, creación de APIs, modelado de bases de datos, elaboración de consultas SQL, procedimientos almacenados, integración de módulos y solución de incidencias.
+
+```javascript
+const randy = {
+  role: "Full Stack Developer",
+  location: "El Salvador 🇸🇻",
+
+  frontend: [
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Vite"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express",
+    "PHP",
+    "CodeIgniter",
+    "REST APIs"
+  ],
+
+  databases: [
+    "SQL Server",
+    "MySQL",
+    "Sequelize"
+  ],
+
+  currentlyLearning: [
+    "Software Architecture",
+    "Application Security",
+    "Design Patterns",
+    "DevOps"
+  ],
+
+  interests: [
+    "Enterprise Systems",
+    "Backend Development",
+    "Database Design",
+    "Process Automation"
+  ]
+};
+```
 
 ---
 
-## 🛠️ Tecnologías
+## 🚀 Lo que hago
+
+* Desarrollo aplicaciones web completas desde el frontend hasta la base de datos.
+* Creo y mantengo APIs REST utilizando Node.js, Express y PHP.
+* Desarrollo sistemas empresariales con PHP y CodeIgniter.
+* Diseño estructuras y relaciones para bases de datos relacionales.
+* Creo consultas, vistas y procedimientos almacenados en SQL Server.
+* Implemento autenticación, autorización, roles y permisos.
+* Integro módulos y servicios dentro de sistemas existentes.
+* Analizo errores y soluciono incidencias en frontend, backend y base de datos.
+* Trabajo con Git y GitHub para control de versiones y colaboración.
+* Administro aplicaciones y servicios en entornos Linux.
+
+---
+
+# 🛠️ Tech Stack
+
+## Lenguajes
 
 <div align="center">
 
-### Lenguajes
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-181717?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-181717?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![C%23](https://img.shields.io/badge/C%23-181717?style=for-the-badge\&logo=csharp\&logoColor=9B4F96)
+![C++](https://img.shields.io/badge/C++-181717?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-181717?style=for-the-badge\&logo=databricks\&logoColor=FF3621)
 
-<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-<img src="https://img.shields.io/badge/C%23-181717?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C Sharp"/>
-<img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C Plus Plus"/>
+</div>
 
-### Frontend
+## Frontend
 
-<img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Vite-181717?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite"/>
-<img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<div align="center">
 
-### Backend
+![React](https://img.shields.io/badge/React-181717?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-181717?style=for-the-badge\&logo=vite\&logoColor=646CFF)
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge\&logo=bootstrap\&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-181717?style=for-the-badge\&logo=jquery\&logoColor=0769AD)
 
-<img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Sequelize-181717?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
-<img src="https://img.shields.io/badge/REST_API-181717?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API"/>
+</div>
 
-### Bases de datos
+## Backend
 
-<img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL_Server-181717?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
+<div align="center">
 
-### Herramientas
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge\&logo=node.js\&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-181717?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-181717?style=for-the-badge\&logo=codeigniter\&logoColor=EF4223)
+![Sequelize](https://img.shields.io/badge/Sequelize-181717?style=for-the-badge\&logo=sequelize\&logoColor=52B0E7)
+![REST API](https://img.shields.io/badge/REST_API-181717?style=for-the-badge\&logo=fastapi\&logoColor=009688)
 
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/AutoCAD-181717?style=for-the-badge&logo=autodesk&logoColor=E51050" alt="AutoCAD"/>
+</div>
+
+## Bases de datos
+
+<div align="center">
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-181717?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+
+</div>
+
+## Herramientas y entorno
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![DBeaver](https://img.shields.io/badge/DBeaver-181717?style=for-the-badge\&logo=dbeaver\&logoColor=382923)
+![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-181717?style=for-the-badge\&logo=ubuntu\&logoColor=E95420)
+![Nginx](https://img.shields.io/badge/Nginx-181717?style=for-the-badge\&logo=nginx\&logoColor=009639)
 
 </div>
 
 ---
 
-## 🌟 Proyectos destacados
+# 💼 Experiencia técnica
 
-### 🧩 Sistema de Control de Calidad
+## Desarrollo de sistemas empresariales
 
-Aplicación web orientada al seguimiento y mejora de actividades dentro de procesos de control de calidad.
+He trabajado en el mantenimiento y evolución de sistemas orientados a la gestión de procesos empresariales.
 
-**Características principales:**
+Entre las actividades que realizo se encuentran:
 
-* API desarrollada con Node.js y Express.
-* Persistencia de datos con Sequelize y MySQL.
-* Interfaz desarrollada con React.
-* Registro y seguimiento de actividades.
-* Organización de procesos y resultados.
-* Visualización de información para apoyar la toma de decisiones.
-
-**Tecnologías:** `React` `Node.js` `Express` `Sequelize` `MySQL`
-
-[Ver repositorio](ENLACE_DEL_REPOSITORIO)
+* Creación y modificación de módulos en PHP con CodeIgniter.
+* Desarrollo de consultas y procedimientos almacenados en SQL Server.
+* Implementación de nuevas reglas de negocio.
+* Integración de nuevos centros, sociedades y configuraciones.
+* Corrección de errores en backend, frontend y base de datos.
+* Generación y exportación de reportes.
+* Manejo de filtros dinámicos y permisos por usuario.
+* Integración y procesamiento de información entre distintos módulos.
+* Optimización y mantenimiento de código existente.
 
 ---
 
-### 🏥 Sistema de Citas Médicas
+## Backend y APIs
 
-Sistema para administrar pacientes, doctores, citas, tarifas y permisos de acceso.
+Tengo experiencia construyendo servicios backend que permiten comunicar interfaces, bases de datos y procesos internos.
 
-**Características principales:**
+Trabajo con:
 
-* Control de acceso basado en roles y permisos.
-* Administración de pacientes y doctores.
-* Gestión de citas y horarios.
-* Registro de tarifas.
+* APIs REST.
+* Arquitectura por capas.
+* Controladores, modelos y servicios.
+* Validación de datos.
+* Autenticación y autorización.
+* Roles y permisos.
+* Manejo centralizado de errores.
+* Operaciones CRUD.
+* Integración con bases de datos relacionales.
+* Registro y auditoría de operaciones.
+
+---
+
+## SQL y bases de datos
+
+Una parte importante de mi trabajo está relacionada con el diseño, consulta y mantenimiento de bases de datos.
+
+Tengo experiencia con:
+
+* SQL Server y MySQL.
+* Procedimientos almacenados.
+* Vistas.
+* Funciones.
+* Consultas complejas.
+* Joins y subconsultas.
+* Tablas temporales.
+* Parámetros dinámicos.
+* Agrupaciones y reportes.
+* Actualizaciones e integración de datos.
+* Modelado de relaciones.
+* Optimización de consultas.
+* Manejo de transacciones y consistencia de información.
+
+---
+
+# 🌟 Proyectos destacados
+
+## 🧩 Sistema de Control de Calidad
+
+Aplicación web desarrollada para registrar, organizar y dar seguimiento a actividades relacionadas con procesos de control de calidad.
+
+### Funcionalidades
+
+* Registro y administración de actividades.
+* Seguimiento de estados y avances.
+* Organización de responsables.
+* Consulta y visualización de resultados.
+* Historial de operaciones.
+* Filtros dinámicos.
+* Gestión de información desde una interfaz web.
+
+### Tecnologías
+
+`React` `Node.js` `Express` `Sequelize` `MySQL`
+
+[Ver proyecto](ENLACE_DEL_REPOSITORIO)
+
+---
+
+## 🏥 Sistema de Citas Médicas
+
+Sistema web para administrar citas, pacientes, doctores, tarifas y accesos dentro de una clínica.
+
+### Funcionalidades
+
+* Administración de pacientes.
+* Gestión de doctores y especialidades.
+* Programación y control de citas.
+* Control de tarifas.
+* Autenticación de usuarios.
+* Roles y permisos mediante RBAC.
 * Auditoría de operaciones.
-* Organización modular del sistema.
+* Panel administrativo.
+* Organización modular del backend.
 
-**Tecnologías:** `React` `Node.js` `Express` `Sequelize` `MySQL`
+### Tecnologías
 
-[Ver repositorio](ENLACE_DEL_REPOSITORIO)
+`React` `Node.js` `Express` `Sequelize` `MySQL`
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=RandyGutierrezC&show_icons=true&theme=tokyonight&hide_border=true&locale=es"
-height="165"
-alt="Estadísticas de GitHub"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandyGutierrezC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="165"
-alt="Lenguajes más utilizados"
-/>
-
-<br/>
-
-<img
-src="https://streak-stats.demolab.com?user=RandyGutierrezC&theme=tokyonight&hide_border=true&locale=es"
-height="165"
-alt="Racha de contribuciones"
-/>
-
-</div>
-
-> Las estadísticas muestran principalmente los repositorios públicos y no representan necesariamente toda mi experiencia profesional.
+[Ver proyecto](ENLACE_DEL_REPOSITORIO)
 
 ---
 
-## 🧠 Mi enfoque de trabajo
+## 🏢 Sistemas de mantenimiento empresarial
 
-Me gusta comprender la lógica detrás de cada problema antes de comenzar a desarrollar una solución.
+Participación en la mejora y mantenimiento de un sistema empresarial compuesto por diferentes módulos y procesos.
 
-Procuro construir sistemas con:
+### Trabajo realizado
 
-* Arquitecturas organizadas.
-* APIs claras y consistentes.
-* Bases de datos bien estructuradas.
-* Código fácil de mantener.
-* Procesos documentados.
-* Interfaces funcionales y profesionales.
-* Soluciones preparadas para crecer.
+* Desarrollo y modificación de funcionalidades en PHP y CodeIgniter.
+* Implementación de reglas de negocio.
+* Mantenimiento de procedimientos almacenados.
+* Integración de nuevas configuraciones empresariales.
+* Manejo de usuarios, roles y permisos.
+* Generación de reportes operativos.
+* Corrección de incidencias.
+* Integración de información con otros sistemas.
+* Soporte a procesos de planificación, evaluación y seguimiento.
 
-También disfruto trabajar en proyectos que combinan diferentes disciplinas, especialmente **software, mecánica, electrónica y procesos industriales**.
+### Tecnologías
+
+`PHP` `CodeIgniter` `JavaScript` `jQuery` `SQL Server` `Git`
 
 ---
 
-## 📚 Actualmente aprendiendo
+# 🧠 Cómo trabajo
+
+Antes de desarrollar una solución, procuro comprender el problema, el flujo de información y las reglas del negocio.
+
+Mi enfoque se basa en:
+
+```text
+Analizar el problema
+        ↓
+Comprender el proceso
+        ↓
+Diseñar una solución
+        ↓
+Implementar y probar
+        ↓
+Documentar y mejorar
+```
+
+Me interesa que cada solución tenga:
+
+* Código organizado y comprensible.
+* Separación clara de responsabilidades.
+* Bases de datos consistentes.
+* Consultas eficientes.
+* Validaciones adecuadas.
+* Manejo controlado de errores.
+* Interfaces funcionales.
+* Procesos fáciles de mantener.
+* Posibilidad de crecimiento futuro.
+
+---
+
+# 📚 Actualmente estoy mejorando en
 
 * Arquitectura de software.
 * Patrones de diseño.
-* Desarrollo avanzado con React y TypeScript.
-* Seguridad para aplicaciones web.
-* Optimización de consultas SQL.
-* Despliegue y administración de aplicaciones.
-* Buenas prácticas de desarrollo full stack.
+* TypeScript avanzado.
+* Desarrollo backend escalable.
+* Seguridad de aplicaciones web.
+* Optimización de SQL Server.
+* Pruebas automatizadas.
+* Contenedores y Docker.
+* Integración y despliegue continuo.
+* Servicios en Linux.
+* Diseño de APIs profesionales.
 
 ---
 
-## 🤝 Contacto
-
-Estoy interesado en colaborar en proyectos de desarrollo web, automatización, sistemas empresariales y soluciones tecnológicas.
+# 📊 Estadísticas de GitHub
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-randygutierrez@grupo-2g.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:randygutierrez@grupo-2g.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Randy_Gutierrez-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_proyectos-00c896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
+<img
+src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es&include_all_commits=true"
+height="165"
+alt="Estadísticas de GitHub de Randy Gutierrez"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+height="165"
+alt="Lenguajes más utilizados por Randy Gutierrez"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es"
+height="170"
+alt="Racha de contribuciones de Randy Gutierrez"
+/>
+
+</div>
+
+> Las estadísticas reflejan principalmente la actividad de repositorios públicos. Parte de mi experiencia profesional se encuentra en proyectos privados.
+
+---
+
+# 🏆 Actividad y contribuciones
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+alt="Trofeos de GitHub"
+/>
+
+</div>
+
+---
+
+# 📈 Gráfico de contribuciones
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"
+alt="Gráfico de actividad de GitHub"
+/>
+
+</div>
+
+---
+
+# 🤝 Conectemos
+
+Estoy interesado en colaborar en proyectos relacionados con:
+
+* Desarrollo web Full Stack.
+* Sistemas empresariales.
+* APIs y servicios backend.
+* Automatización de procesos.
+* Diseño y optimización de bases de datos.
+* Desarrollo de herramientas internas.
+* Integración de sistemas.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Ver_portafolio-00C896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Enviar_un_correo-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:TU_CORREO)
 
 </div>
 
@@ -194,8 +428,14 @@ Estoy interesado en colaborar en proyectos de desarrollo web, automatización, s
 
 <div align="center">
 
-### 💡 Construyendo soluciones, aprendiendo constantemente y convirtiendo ideas en sistemas funcionales.
+### 💡 Del análisis a la solución, y de la solución a un sistema que genere valor.
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO\&style=for-the-badge\&color=00c896\&label=VISITAS+AL+PERFIL)
+<br/>
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=TU_USUARIO\&style=for-the-badge\&color=00C896\&label=VISITAS+AL+PERFIL)
+
+<br/><br/>
+
+**Gracias por visitar mi perfil. 🚀**
 
 </div>
