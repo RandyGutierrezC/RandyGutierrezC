@@ -1,130 +1,216 @@
-<!-- PERFIL GITHUB - BY Randy Gutierrez -->
 <div align="center">
-  
-  <!-- TÍTULO PRINCIPAL -->
-  <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem;">
-    👋 Hola, soy <span style="color:#00c896;">Randy Gutierrez</span>
-  </h1>
-  <h3 style="font-weight: normal; color:#a0a0a0; margin-top: 0;">
-    Estudiante de Ingeniería en Sistemas · Fullstack JS 🎮
-  </h3>
 
-  <!-- FRASE CORTA -->
-  <p style="max-width: 600px; color:#d0d0d0;">
-    Me encanta crear <b>aplicaciones web</b>, <b>APIs con Node.js</b> usando React, MySQL y mucha lógica 💡.
-  </p>
+# 👋 Hola, soy Randy Gutierrez
 
-  <!-- GIF O IMAGEN CENTRAL (OPCIONAL) -->
-  <!-- Puedes cambiar la URL del gif por otro que te guste -->
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000ffc0722fa86a6a550929d310&ts=492188&p=fs&cid=1&sig=d1ad3cb69a4a4c5ad72ea91dce14dbfc7ed352e5f439d9daa8589ef1fde2559b&v=0" 
-       alt="coder gif" width="320" />
+### Desarrollador Full Stack · Estudiante de Ingeniería en Sistemas
+
+Creo aplicaciones web, APIs y sistemas orientados a resolver problemas reales, utilizando tecnologías como **React, Node.js, MySQL y SQL Server**.
+
+Me interesa desarrollar soluciones limpias, escalables y fáciles de mantener, combinando lógica, diseño y mejora continua.
+
+<img
+src="REEMPLAZA_AQUI_LA_URL_DE_TU_GIF"
+alt="Desarrollador programando"
+width="340"
+/>
+
+<br/>
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-00c896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:TU_CORREO)
 
 </div>
 
 ---
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 
-- 🎓 Estudio **Ingeniería en Sistemas**
-- 💻 Trabajo mucho con **Node.js, React, MySQL y Sequelize**
-- 🧠 Me gusta la **probabilidad y estadística** (Poisson, Bayes, etc.)
-- ⚙️ También me interesa la parte **mecánica / diseño industrial** (rodamiento, chumaceras, ISO, etc.)
+* 🎓 Estudio **Ingeniería en Sistemas**.
+* 💻 Desarrollo aplicaciones con **React, Node.js, Express y Sequelize**.
+* 🗄️ Trabajo con bases de datos como **MySQL y SQL Server**.
+* 🔐 Tengo experiencia implementando autenticación, roles, permisos y auditoría.
+* 📊 Me interesan la **probabilidad, estadística, optimización y análisis de procesos**.
+* ⚙️ También disfruto trabajar en proyectos relacionados con **mecánica, diseño industrial y AutoCAD**.
+* 🌱 Actualmente continúo fortaleciendo mis conocimientos en arquitectura de software, APIs y desarrollo full stack.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Tecnologías
 
 <div align="center">
 
-  <!-- Lenguajes -->
-  <h4>Lenguajes & Core</h4>
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/C%23-181717?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+### Lenguajes
 
-  <!-- Frontend -->
-  <h4>Frontend</h4>
-  <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Vite-181717?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+<img src="https://img.shields.io/badge/C%23-181717?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C Plus Plus"/>
 
-  <!-- Backend & DB -->
-  <h4>Backend & DB</h4>
-  <img src="https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Sequelize-181717?style=for-the-badge&logo=sequelize" />
-  <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-181717?style=for-the-badge&logo=microsoftsqlserver" />
+### Frontend
 
-  <!-- Otros -->
-  <h4>Otros</h4>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/AutoCAD-181717?style=for-the-badge&logo=autodesk" />
+<img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-181717?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite"/>
+<img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+
+### Backend
+
+<img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Sequelize-181717?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/REST_API-181717?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API"/>
+
+### Bases de datos
+
+<img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-181717?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
+
+### Herramientas
+
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/AutoCAD-181717?style=for-the-badge&logo=autodesk&logoColor=E51050" alt="AutoCAD"/>
 
 </div>
 
 ---
 
-### 📊 Stats de GitHub
+## 🌟 Proyectos destacados
+
+### 🧩 Sistema de Control de Calidad
+
+Aplicación web orientada al seguimiento y mejora de actividades dentro de procesos de control de calidad.
+
+**Características principales:**
+
+* API desarrollada con Node.js y Express.
+* Persistencia de datos con Sequelize y MySQL.
+* Interfaz desarrollada con React.
+* Registro y seguimiento de actividades.
+* Organización de procesos y resultados.
+* Visualización de información para apoyar la toma de decisiones.
+
+**Tecnologías:** `React` `Node.js` `Express` `Sequelize` `MySQL`
+
+[Ver repositorio](ENLACE_DEL_REPOSITORIO)
+
+---
+
+### 🏥 Sistema de Citas Médicas
+
+Sistema para administrar pacientes, doctores, citas, tarifas y permisos de acceso.
+
+**Características principales:**
+
+* Control de acceso basado en roles y permisos.
+* Administración de pacientes y doctores.
+* Gestión de citas y horarios.
+* Registro de tarifas.
+* Auditoría de operaciones.
+* Organización modular del sistema.
+
+**Tecnologías:** `React` `Node.js` `Express` `Sequelize` `MySQL`
+
+[Ver repositorio](ENLACE_DEL_REPOSITORIO)
+
+---
+
+### ⚙️ Proyectos mecánicos e industriales
+
+Diseño y análisis de componentes utilizados en sistemas mecánicos e industriales.
+
+**Áreas trabajadas:**
+
+* Bandas transportadoras.
+* Ejes motrices.
+* Rodamientos y chumaceras.
+* Motores y sistemas de transmisión.
+* Dibujos y documentación técnica en AutoCAD.
+* Aplicación de tolerancias, simbología y estándares técnicos.
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-  <!-- Reemplaza TU_USUARIO por tu usuario real de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es"
+height="165"
+alt="Estadísticas de GitHub"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="165"
+alt="Lenguajes más utilizados"
+/>
+
+<br/>
+
+<img
+src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es"
+height="165"
+alt="Racha de contribuciones"
+/>
+
+</div>
+
+> Las estadísticas muestran principalmente los repositorios públicos y no representan necesariamente toda mi experiencia profesional.
+
+---
+
+## 🧠 Mi enfoque de trabajo
+
+Me gusta comprender la lógica detrás de cada problema antes de comenzar a desarrollar una solución.
+
+Procuro construir sistemas con:
+
+* Arquitecturas organizadas.
+* APIs claras y consistentes.
+* Bases de datos bien estructuradas.
+* Código fácil de mantener.
+* Procesos documentados.
+* Interfaces funcionales y profesionales.
+* Soluciones preparadas para crecer.
+
+También disfruto trabajar en proyectos que combinan diferentes disciplinas, especialmente **software, mecánica, electrónica y procesos industriales**.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+* Arquitectura de software.
+* Patrones de diseño.
+* Desarrollo avanzado con React y TypeScript.
+* Seguridad para aplicaciones web.
+* Optimización de consultas SQL.
+* Despliegue y administración de aplicaciones.
+* Buenas prácticas de desarrollo full stack.
+
+---
+
+## 🤝 Contacto
+
+Estoy interesado en colaborar en proyectos de desarrollo web, automatización, sistemas empresariales y soluciones tecnológicas.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-TU_CORREO-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:TU_CORREO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Randy_Gutierrez-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_proyectos-00c896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
 
 </div>
 
 ---
 
-### 🎮 Proyectos que me representan
-
-- 🧩 **Sistema Control de Calidad (web)**  
-  API en Node.js + Sequelize + MySQL, FRONTEND en React, Logrando llevar un control de las actividades y poderlas mejorar.
-
-- 🏥 **Sistema de citas médicas**  
-  RBAC completo (roles y permisos), auditoría, manejo de tarifas, pacientes, doctores, etc.
-
-- ⚙️ **Proyectos mecánicos**  
-  Diseño de bandas transportadoras, ejes motrices, rodamientos, chumaceras, etc., con dibujos en AutoCAD.
-
----
-
-### 📫 ¿Hablamos?
-
 <div align="center">
 
-  <!-- Cambia los enlaces a tus redes reales -->
-  <a href="mailto:tu_correo@example.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://TU_PORTAFOLIO_O_WEB" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-181717?style=for-the-badge&logo=firefoxbrowser" />
-  </a>
+### 💡 Construyendo soluciones, aprendiendo constantemente y convirtiendo ideas en sistemas funcionales.
+
+![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO\&style=for-the-badge\&color=00c896\&label=VISITAS+AL+PERFIL)
 
 </div>
-
----
-
-<details>
-  <summary>✨ Un poquito más sobre mí</summary>
-  <br/>
-
-  - Tengo una mentalidad analítica y disfruto comprender la **lógica profunda de los problemas**, especialmente en probabilidad, estadística, procesos y optimización.
-  - Me gusta crear soluciones bien estructuradas: APIs limpias, bases de datos coherentes, procesos claros y sistemas que sean fáciles de mantener y escalar.
-  - Trabajo de forma natural en proyectos que combinan **software, mecánica y electrónica**, como diseño de estructuras, bandas transportadoras, ejes, rodamientos, motores y sistemas físicos.
-  - Manejo documentación técnica, normas y estándares (como ISO, tolerancias, simbología mecánica y procesos industriales).
-  - Disfruto crear interfaces y herramientas bien diseñadas, funcionales y con enfoque profesional.
-  - Me apasiona comprender cómo interactúan los sistemas: desde el diseño de una tabla SQL hasta el funcionamiento de un rodamiento o un mecanismo mecánico.
-  - Busco siempre la **mejora continua**: optimizar procesos, simplificar soluciones y aprender nuevas tecnologías cuando el proyecto lo requiere.
-  - Soy curioso por naturaleza: si un proyecto necesita aprender un nuevo lenguaje, framework, técnica de CAD, o modelo conceptual, lo estudio y lo implemento.
-
-</details>
