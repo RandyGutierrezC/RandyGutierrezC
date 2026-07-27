@@ -18,7 +18,7 @@ width="340"
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-00c896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:TU_CORREO)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:randygutierrez@grupo-2g.com)
 
 </div>
 
@@ -118,33 +118,18 @@ Sistema para administrar pacientes, doctores, citas, tarifas y permisos de acces
 
 ---
 
-### ⚙️ Proyectos mecánicos e industriales
-
-Diseño y análisis de componentes utilizados en sistemas mecánicos e industriales.
-
-**Áreas trabajadas:**
-
-* Bandas transportadoras.
-* Ejes motrices.
-* Rodamientos y chumaceras.
-* Motores y sistemas de transmisión.
-* Dibujos y documentación técnica en AutoCAD.
-* Aplicación de tolerancias, simbología y estándares técnicos.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es"
+src="https://github-readme-stats.vercel.app/api?username=RandyGutierrezC&show_icons=true&theme=tokyonight&hide_border=true&locale=es"
 height="165"
 alt="Estadísticas de GitHub"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandyGutierrezC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 height="165"
 alt="Lenguajes más utilizados"
 />
@@ -152,7 +137,7 @@ alt="Lenguajes más utilizados"
 <br/>
 
 <img
-src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es"
+src="https://streak-stats.demolab.com?user=RandyGutierrezC&theme=tokyonight&hide_border=true&locale=es"
 height="165"
 alt="Racha de contribuciones"
 />
@@ -199,7 +184,7 @@ Estoy interesado en colaborar en proyectos de desarrollo web, automatización, s
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-TU_CORREO-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:TU_CORREO)
+[![Email](https://img.shields.io/badge/Email-randygutierrez@grupo-2g.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:randygutierrez@grupo-2g.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Randy_Gutierrez-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_proyectos-00c896?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://TU_PORTAFOLIO)
 
