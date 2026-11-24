@@ -4,50 +4,82 @@
 
 **Full Stack Developer · Software Engineering Student**
 
+Backend Development / Databases / DevOps
+
 El Salvador 🇸🇻
 
-[Portafolio](https://TU_PORTAFOLIO) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/crhistopher-randy-gutierrez-castillo-999b20372?utm_source=share_via&utm_content=profile&utm_medium=member_android) &nbsp;·&nbsp; [Email](mailto:randygutierrez930@gmail.com)
+[Portfolio](https://TU_PORTAFOLIO) · [LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN) · [Email](mailto:TU_CORREO)
+
+**English** · [Español](./README.es.md)
 
 </div>
 
 ---
 
-### Sobre mí
+### 01 / About me
 
-Soy desarrollador Full Stack y estudiante de Ingeniería en Sistemas. Desarrollo y mantengo aplicaciones web, APIs REST y sistemas empresariales, con especial interés en backend, bases de datos y automatización de procesos.
+I'm a Full Stack Developer and Systems Engineering student with hands-on experience building and maintaining web applications, REST APIs and enterprise systems.
 
-Mi enfoque es construir soluciones funcionales, escalables y fáciles de mantener, alineadas con las necesidades del negocio.
+I enjoy turning real-world problems into practical software, with a particular interest in backend development, relational databases, system integration and deployment infrastructure. My goal is to build reliable, maintainable solutions that create value.
 
-### Stack tecnológico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| Frontend | React · TypeScript · JavaScript · Vite · HTML · CSS · Bootstrap · jQuery |
-| Backend | Node.js · Express · PHP · CodeIgniter · Sequelize · REST APIs |
-| Bases de datos | SQL Server · MySQL |
-| Herramientas | Git · GitHub · Linux · Ubuntu · Nginx · Postman · DBeaver · VS Code |
-| Otros lenguajes | Java · C# · C++ |
+### 02 / Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,php,mysql,git,linux&amp;perline=9" alt="React, TypeScript, JavaScript, Node.js, Express, PHP, MySQL, Git y Linux" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,php,laravel,mysql,docker,linux,git&amp;perline=12" alt="React, TypeScript, JavaScript, Tailwind CSS, Node.js, Express, PHP, Laravel, MySQL, Docker, Linux and Git" />
 </div>
 
-### Proyectos destacados
+<br/>
 
-| Proyecto | Descripción |
+| Area | Technologies |
 | :--- | :--- |
-| **Control de calidad** | Gestión de actividades, responsables, seguimiento e historial de operaciones. |
-| **Citas médicas** | Administración de pacientes, doctores, citas, tarifas y permisos de acceso. |
-| **Sistemas empresariales** | Desarrollo y mantenimiento de módulos, reglas de negocio, reportes y procedimientos almacenados. |
+| **Frontend** | React · TypeScript · JavaScript · Vite · Tailwind CSS · HeroUI · HTML/CSS · Bootstrap · jQuery |
+| **Backend** | Node.js · Express · PHP · CodeIgniter · Laravel · Sequelize · REST APIs |
+| **Databases** | SQL Server · MySQL |
+| **DevOps & infrastructure** | Docker · Coolify · Cloudflare · Linux/Ubuntu · Traefik · Nginx · VPS |
+| **Tools & integrations** | Git · GitHub · Postman · DBeaver · VS Code · Resend · Cloudflare R2 |
+| **Other languages** | Java · C# · C++ |
 
-<!-- Si los repositorios son públicos, puedes convertir los nombres de los proyectos en enlaces. -->
+### 03 / What I do
 
-### Actualmente aprendiendo
+- **Software development:** full stack applications, enterprise modules and business workflows.
+- **Backend & APIs:** REST services, authentication, authorization, RBAC and system integration.
+- **Databases:** relational modeling, stored procedures, views, transactions, reporting and auditing.
+- **Infrastructure:** containerized applications, VPS deployments, reverse proxies and domain configuration.
+- **Maintenance:** troubleshooting, bug fixes and continuous improvement of existing systems.
 
-Arquitectura de software · Patrones de diseño · Seguridad de aplicaciones · DevOps · Pruebas automatizadas · Optimización SQL
+### 04 / Selected projects
+
+| Project | Focus |
+| :--- | :--- |
+| **Mini Billing** | Billing and commercial management platform, including customer and credit management initiatives. |
+| **Digital Invitations** | Web platform for customizable digital invitations, interactive designs and animations. |
+| **Mobile Credit Management** | Mobile app initiative for tracking credits, payments, limits and customer account history. *In development / planning.* |
+| **Quality Control System** | Activity management, progress tracking and operational records. |
+| **Medical Appointment System** | Patient, doctor and appointment management, with access control and auditing. |
+| **Enterprise Systems** | Professional experience maintaining business modules, integrating processes and developing SQL Server solutions. |
+
+<!-- Add links to public repositories or live demos when available. Keep private enterprise projects confidential. -->
+
+### 05 / Currently exploring
+
+`Software Architecture` · `Design Patterns` · `Application Security` · `Automated Testing` · `Mobile Development` · `Electron` · `API Gateways` · `Microservices` · `CI/CD` · `AI & MCP`
+
+### 06 / GitHub activity
+
+My public repositories showcase personal projects and learning. Part of my professional experience takes place in private repositories.
+
+<!-- Optional: after replacing TU_USUARIO with your GitHub username, remove the comment markers surrounding this image to display it.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub statistics" />
+</div>
+-->
+
+### 07 / Beyond the code
+
+MTB & cycling · Chess & strategic thinking · Entrepreneurship & technology
 
 ---
 
 <div align="center">
-  <sub>Del análisis a la solución. Código con propósito.</sub>
+  <sub>Building software. Solving problems. Creating value.</sub>
 </div>
