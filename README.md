@@ -6,7 +6,7 @@
 
 El Salvador 🇸🇻
 
-[Portafolio](https://TU_PORTAFOLIO) &nbsp;·&nbsp; [LinkedIn]([https://www.linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/crhistopher-randy-gutierrez-castillo-999b20372?utm_source=share_via&utm_content=profile&utm_medium=member_android)) &nbsp;·&nbsp; [Email](mailto:randygutierrez930@gmail.com)
+[Portafolio](https://TU_PORTAFOLIO) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/crhistopher-randy-gutierrez-castillo-999b20372?utm_source=share_via&utm_content=profile&utm_medium=member_android) &nbsp;·&nbsp; [Email](mailto:randygutierrez930@gmail.com)
 
 </div>
 
