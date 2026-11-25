@@ -8,7 +8,7 @@ Backend Development / Databases / DevOps
 
 El Salvador 🇸🇻
 
-[Portfolio](https://TU_PORTAFOLIO) · [LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN) · [Email](mailto:TU_CORREO)
+[Portfolio](https://TU_PORTAFOLIO) · [LinkedIn](https://www.linkedin.com/in/randygutierrezc) · [Email](mailto:c.randy.gutierrez.c@gmail.com)
 
 **English** · [Español](./README.es.md)
 
